@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/build",
+  "command": "C:/TDM-GCC-64/bin/c++.exe   -g -std=gnu++11 -o CMakeFiles/TestMain.dir/worldcup23a1.cpp.obj -c \"C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/worldcup23a1.cpp\"",
+  "file": "C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/worldcup23a1.cpp"
+},
+{
+  "directory": "C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/build",
+  "command": "C:/TDM-GCC-64/bin/c++.exe   -g -std=gnu++11 -o CMakeFiles/TestMain.dir/main23a1.cpp.obj -c \"C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/main23a1.cpp\"",
+  "file": "C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/main23a1.cpp"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/build/CMakeFiles/TestMain.dir
+C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/build/CMakeFiles/edit_cache.dir
+C:/Users/ronraphaeli/OneDrive - Tel-Aviv University/Documents/technion/B/data/hw1wet/data-wet1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3659 @@
+add_team 90005 11955
+add_team 90004 1356
+add_team 4 -43722
+add_team -2 39796
+add_team 23 -51432
+add_team 7 -20832
+add_team 22 -65761
+add_team 20 -87738
+add_team 1 68254
+add_team 10 -61903
+add_team 13 -23302
+add_team 0 51668
+add_team 19 -60730
+add_team 14 -62094
+add_team 8 -35877
+add_team 16 -26645
+add_team 9 -43403
+add_team 12 -49594
+add_team 3 14469
+add_team 21 -67402
+add_team 2 87907
+add_team 2 78853
+add_team 3 13747
+add_team 1 4929
+add_team 15 -35921
+add_team 18 -11699
+add_team 5 -35157
+add_team 6 -3981
+add_team -3 19506
+add_team 90000 8942
+add_team 11 -34293
+add_team 90001 75508
+add_team 17 -46443
+add_team 90003 28860
+remove_team 90039
+remove_team 90027
+remove_team 90029
+remove_team 0
+remove_team 90023
+remove_team 90004
+remove_team 90003
+remove_team -3
+remove_team 90005
+remove_team 90032
+remove_team 90025
+remove_team 90000
+remove_team 90001
+remove_team 90030
+remove_team -2
+remove_team 90036
+remove_team 90026
+remove_team 90028
+remove_team 90037
+remove_team 90038
+remove_team 90034
+remove_team 90031
+remove_team 90040
+remove_team 90033
+remove_team 90035
+remove_team 90024
+remove_team 90022
+remove_team 90021
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 14 3 37835 26508 41033 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 14 3 37835 26508 41033 false
+add_player 16 2 88952 28371 18858 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 14 3 37835 26508 41033 false
+add_player 16 2 88952 28371 18858 true
+add_player 2 2 68686 65901 55500 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 14 3 37835 26508 41033 false
+add_player 16 2 88952 28371 18858 true
+add_player 2 2 68686 65901 55500 false
+add_player 21 1 62993 43471 22512 true
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 14 3 37835 26508 41033 false
+add_player 16 2 88952 28371 18858 true
+add_player 2 2 68686 65901 55500 false
+add_player 21 1 62993 43471 22512 true
+add_player 8 1 87470 9874 55583 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 14 3 37835 26508 41033 false
+add_player 16 2 88952 28371 18858 true
+add_player 2 2 68686 65901 55500 false
+add_player 21 1 62993 43471 22512 true
+add_player 8 1 87470 9874 55583 false
+add_player 10 4 3570 12504 21999 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 14 3 37835 26508 41033 false
+add_player 16 2 88952 28371 18858 true
+add_player 2 2 68686 65901 55500 false
+add_player 21 1 62993 43471 22512 true
+add_player 8 1 87470 9874 55583 false
+add_player 10 4 3570 12504 21999 false
+add_player 19 1 44586 5863 36026 false
+add_player 24 4 30419 45964 23882 true
+add_player 23 2 20980 8965 68153 false
+add_player 28 3 11613 79249 63458 false
+add_player 11 2 82682 69104 73962 true
+add_player 4 4 69080 70573 76075 true
+add_player 46 3 31275 7035 -3863 true
+add_player 38 3 -66612 32562 85840 true
+add_player 1 3 58187 66335 8163 false
+add_player 30 -2 78094 30751 78503 false
+add_player 4 1 35789 70576 60781 false
+add_player 47 2 63863 40143 -31326 true
+add_player 4 3 29659 52435 27964 false
+add_player 4 1 2805 3537 53318 false
+add_player 4 1 35549 28541 33552 true
+add_player 52 4 0 76305 22734 false
+add_player 13 1 1407 86674 85171 true
+add_player 4 4 52461 27255 6479 true
+add_player 35 3 -40488 13336 56995 false
+add_player 50 1 0 4695 75783 false
+add_player 4 1 40255 76297 75350 true
+add_player 4 3 53031 32613 31843 false
+add_player 8 4 3822 21502 5777 true
+add_player 51 1 0 8567 59577 false
+add_player 3 2 59019 41752 25925 false
+add_player 25 3 4426 53429 80486 true
+add_player 39 1 -53416 89769 43546 false
+add_player 4 1 79181 55783 14925 false
+add_player 52 2 0 44307 38297 false
+add_player 2 3 52674 83603 40330 true
+add_player 54 1 0 68669 69908 true
+add_player 51 1 0 29904 85665 true
+add_player 33 -3 42847 6716 82473 true
+add_player 10 3 44186 15358 45476 false
+add_player 4 3 70344 57602 1355 false
+add_player 4 4 13302 64582 17280 true
+add_player 17 1 77134 75303 32022 true
+add_player 16 3 43652 69437 24819 false
+add_player 4 2 75273 89923 48467 false
+add_player 20 1 42098 3822 48796 false
+add_player 4 3 81411 57021 68545 true
+add_player 4 3 86455 13886 68098 false
+add_player 9 4 50860 13153 82944 true
+add_player 4 2 64253 89493 56061 true
+add_player 21 1 12263 46095 11385 true
+add_player 36 2 -26326 27306 32326 false
+add_player 4 1 26334 86838 27676 false
+add_player 4 1 46921 19705 31923 false
+add_player 32 -1 7107 24465 1912 true
+add_player 4 4 22331 9112 26575 false
+add_player 54 4 0 82307 9606 false
+add_player -4 1 54018 71349 45409 true
+add_player 27 3 86885 23910 14356 false
+add_player 4 2 72733 33647 1293 true
+add_player 4 4 62021 37369 62892 false
+add_player 4 1 89289 14876 49366 false
+add_player 41 4 84162 -41637 89426 false
+add_player 4 3 58612 33637 3348 true
+add_player 26 3 41265 48990 78313 true
+add_player 18 3 35511 6905 9164 true
+add_player 4 3 54818 46801 77604 false
+add_player 22 1 37076 88445 7871 true
+add_player 19 3 82247 62967 85305 true
+add_player 15 3 67676 88472 75298 false
+add_player 12 2 54657 64001 49439 false
+add_player -6 4 21934 3220 6607 false
+add_player 42 4 54432 -4329 28991 false
+add_player 34 1 79993 19608 26406 true
+add_player -29 3 69586 54428 31803 false
+add_player 54 4 0 40507 18070 true
+add_player 29 4 10823 14787 57446 true
+add_player 4 1 8517 45892 75830 true
+add_player 4 3 24540 26567 44201 false
+add_player 48 3 20094 35474 -67314 false
+add_player -10 1 47207 82114 39883 true
+add_player 50 2 0 84713 49453 false
+add_player -9 3 27054 62984 80461 true
+add_player 4 4 14374 58819 46367 false
+add_player 4 4 79155 29555 2746 true
+add_player 5 4 49545 36245 24296 false
+add_player 4 2 16339 78265 33568 false
+add_player 51 1 0 51678 10406 true
+add_player 40 2 43467 -68163 20485 true
+add_player 4 2 73792 61712 51118 false
+add_player 44 3 47969 -59580 49047 true
+add_player 50 3 0 20005 26206 false
+add_player 7 1 20735 13053 34560 true
+add_player 6 1 8719 46103 83776 false
+add_player 52 1 0 16529 59911 false
+add_player 4 4 76564 89482 86937 true
+add_player 45 4 75649 76609 -282 false
+add_player 14 2 71241 21845 46167 false
+add_player 28 3 74394 69601 52425 true
+add_player 15 1 26569 64885 8768 false
+add_player 1 2 73586 8446 54103 false
+add_player 12 2 20939 33068 79932 false
+add_player 23 2 29140 74111 37875 false
+add_player 3 4 28423 88137 86238 false
+add_player 9 1 10816 75458 9732 true
+add_player 11 1 88252 17638 24317 true
+add_player 6 4 59811 9227 13109 false
+add_player 17 3 82434 67469 17708 true
+add_player 22 4 58005 75488 60275 true
+add_player 29 1 17789 22785 39216 false
+add_player 13 1 87752 15326 14079 false
+add_player 26 2 45672 67414 39756 true
+add_player 5 1 28877 8152 60725 true
+add_player 24 1 52573 46048 47078 false
+add_player 25 3 8645 50120 40886 false
+add_player 7 4 42618 23170 81592 true
+add_player 20 1 30107 23619 82214 false
+add_player 18 1 8643 59651 87580 true
+add_player 27 1 78996 81331 7621 true
+add_player 14 3 37835 26508 41033 false
+add_player 16 2 88952 28371 18858 true
+add_player 2 2 68686 65901 55500 false
+add_player 21 1 62993 43471 22512 true
+add_player 8 1 87470 9874 55583 false
+add_player 10 4 3570 12504 21999 false
+add_player 19 1 44586 5863 36026 false
+add_player 4 4 26495 89396 47217 false
+remove_player 8
+remove_player 5
+remove_player 21
+remove_player 33
+remove_player 13
+remove_player 29
+remove_player -4
+remove_player 12
+remove_player 7
+remove_player -6
+remove_player 16
+remove_player 10
+remove_player -29
+remove_player 18
+remove_player 35
+remove_player 14
+remove_player 15
+remove_player 22
+remove_player 9
+remove_player 34
+remove_player 3
+remove_player 17
+remove_player 24
+remove_player 2
+remove_player 4
+remove_player 23
+remove_player 36
+remove_player 11
+remove_player 20
+remove_player 27
+remove_player 6
+remove_player 1
+remove_player 19
+remove_player 26
+remove_player 25
+remove_player -10
+remove_player 32
+remove_player -9
+remove_player 28
+add_player 28 2 86661 31526 73744 true
+add_player 15 2 18054 66069 81830 false
+add_player 1 3 89558 86485 31580 false
+add_player 12 3 11447 66286 36333 false
+add_player 23 1 6448 1134 15738 false
+add_player 3 3 14765 2017 83224 true
+add_player 9 1 35425 60118 87019 true
+add_player 11 3 55495 87576 19907 false
+add_player 6 3 7588 56768 25356 true
+add_player 17 4 46870 66420 73885 false
+add_player 22 3 15819 46007 10972 true
+add_player 29 4 46123 29633 32261 true
+add_player 13 2 11110 14765 30010 true
+add_player 26 2 47863 72509 68943 false
+add_player 5 2 17674 14116 34364 false
+add_player 24 3 75919 65664 69061 true
+add_player 25 2 89235 81876 45762 false
+add_player 7 4 64166 86988 78701 true
+add_player 20 2 51554 59736 67991 false
+add_player 18 2 69161 65703 35013 false
+add_player 27 4 23158 62769 81586 false
+add_player 14 1 88832 8496 51414 false
+add_player 16 1 69328 34839 44662 false
+add_player 2 1 67348 44831 75548 true
+add_player 21 2 79181 65679 69832 false
+add_player 8 4 17207 80322 19397 false
+add_player 10 2 74319 16817 60065 false
+add_player 19 1 15959 47193 24454 false
+add_player 4 3 39038 40017 89783 false
+update_player_stats 28 1 1 1
+update_player_stats 15 1 1 1
+update_player_stats 1 1 1 1
+add_player 28 1 39683 45909 70415 false
+add_player 15 4 30729 74152 25181 false
+add_player 1 4 70747 52602 84285 false
+add_player 12 2 49431 46562 29597 true
+add_player 23 1 44394 72278 50255 true
+add_player 3 3 76871 49708 78015 false
+add_player 9 4 7788 65621 51100 true
+add_player 11 4 72819 41611 40368 true
+add_player 6 1 17866 18004 25657 false
+add_player 17 4 55269 78479 7046 true
+add_player 22 3 5465 27633 75486 false
+add_player 29 4 3136 23241 20212 true
+add_player 13 3 10946 41496 23704 false
+add_player 26 1 35384 16740 53341 true
+add_player 5 1 37538 25446 89715 true
+add_player 24 1 46628 51481 77376 false
+add_player 25 4 72339 41436 87202 true
+add_player 7 3 1009 71119 41529 true
+add_player 20 4 37084 30336 12650 false
+add_player 18 3 38451 9278 54287 true
+add_player 27 1 28739 45335 7539 true
+add_player 14 2 22346 81839 8626 false
+add_player 16 1 23222 85992 46329 false
+add_player 2 1 56280 40431 17522 false
+add_player 21 1 73063 69185 60639 false
+add_player 8 3 75959 53999 18135 false
+add_player 10 4 5867 77077 25950 false
+add_player 19 4 22204 54538 78687 false
+add_player 4 2 72680 55861 55854 false
+update_player_stats 13 26431 24563 75607
+update_player_stats 12 37930 20185 49447
+update_player_stats 45 6423 31924 -43167
+update_player_stats 4 24737 88803 84409
+update_player_stats 44 83269 -65300 16800
+update_player_stats -4 10266 73951 22193
+update_player_stats -29 61275 71676 61672
+update_player_stats 17 78813 9016 37563
+update_player_stats 36 -16411 28462 77173
+update_player_stats 42 71048 -32529 45294
+update_player_stats 35 20526 9319 39246
+update_player_stats 38 -44218 37755 64624
+update_player_stats -6 32638 43538 81952
+update_player_stats 21 20490 26261 11495
+update_player_stats 27 61909 52560 36052
+update_player_stats 35 -82960 6780 71046
+update_player_stats 6 84608 56039 4547
+update_player_stats -9 69179 72361 15768
+update_player_stats 22 58211 47030 61868
+update_player_stats 16 70648 26255 20494
+update_player_stats 19 87737 51439 14209
+update_player_stats 33 25188 40770 19519
+update_player_stats 2 47319 41039 5187
+update_player_stats -10 29128 67623 38306
+update_player_stats 10 899 45692 82713
+update_player_stats 41 15161 -46281 68400
+update_player_stats 48 73573 80402 -88864
+update_player_stats 28 32676 60725 38782
+update_player_stats 47 28840 9228 -75894
+update_player_stats 14 36556 35796 3370
+update_player_stats 25 89327 63755 68972
+update_player_stats 39 -33009 22180 36112
+update_player_stats 29 64252 40817 38621
+update_player_stats 1 36567 44868 80559
+update_player_stats 8 53545 78281 35052
+update_player_stats 24 88730 41080 49212
+update_player_stats 18 16862 31650 81669
+update_player_stats 32 7361 6188 13921
+update_player_stats 26 38138 28526 60157
+update_player_stats 5 6429 83056 59899
+update_player_stats 40 55310 -65318 46056
+update_player_stats 46 53622 10627 -86523
+update_player_stats 20 1143 880 18478
+update_player_stats 3 63936 50500 41514
+update_player_stats 23 2735 43694 13106
+update_player_stats 7 57622 74425 7486
+update_player_stats 15 73259 59457 32778
+update_player_stats 34 4249 21139 3168
+update_player_stats 9 15176 16376 26887
+update_player_stats 36 8476 62382 46259
+update_player_stats 11 62431 88595 63724
+get_num_played_games 20
+get_num_played_games 17
+get_num_played_games 13
+get_num_played_games 27
+get_num_played_games 15
+get_num_played_games 23
+get_num_played_games 22
+get_num_played_games 28
+get_num_played_games 14
+get_num_played_games 6
+get_num_played_games 9
+get_num_played_games 2
+get_num_played_games -29
+get_num_played_games 25
+get_num_played_games 34
+get_num_played_games 12
+get_num_played_games -10
+get_num_played_games 7
+get_num_played_games 18
+get_num_played_games -9
+get_num_played_games 1
+get_num_played_games 29
+get_num_played_games -6
+get_num_played_games 35
+get_num_played_games 4
+get_num_played_games 32
+get_num_played_games 19
+get_num_played_games 8
+get_num_played_games 10
+get_num_played_games -4
+get_num_played_games 11
+get_num_played_games 21
+get_num_played_games 5
+get_num_played_games 26
+get_num_played_games 3
+get_num_played_games 33
+get_num_played_games 24
+get_num_played_games 16
+get_num_played_games 36
+get_team_points 1
+get_team_points 2
+get_team_points 3
+get_team_points 90039
+get_team_points 90027
+get_team_points 90029
+get_team_points 0
+get_team_points 90023
+get_team_points 90004
+get_team_points 90003
+get_team_points -3
+get_team_points 90005
+get_team_points 90032
+get_team_points 90025
+get_team_points 90000
+get_team_points 90001
+get_team_points 90030
+get_team_points -2
+get_team_points 90036
+get_team_points 90026
+get_team_points 90028
+get_team_points 90037
+get_team_points 90038
+get_team_points 90034
+get_team_points 90031
+get_team_points 90040
+get_team_points 90033
+get_team_points 90035
+get_team_points 90024
+get_team_points 90022
+get_team_points 90021
+get_team_points 90028
+get_team_points 90025
+get_team_points 90030
+get_team_points 90035
+get_team_points 90031
+get_team_points 90029
+get_team_points 90039
+get_team_points 90024
+get_team_points 90038
+get_team_points 90033
+get_team_points 90034
+get_team_points 90040
+get_team_points 90036
+get_team_points 90032
+get_team_points 90021
+get_team_points 90027
+get_team_points 90026
+get_team_points 90037
+get_team_points 90023
+get_team_points 90022
+unite_teams -1 2 1
+unite_teams 1 -1 1
+unite_teams 1 2 -1
+unite_teams 1 1 90028
+unite_teams 1 2 3
+get_top_scorer 0
+get_top_scorer 1
+get_top_scorer 3
+get_top_scorer 2
+get_top_scorer 90039
+get_top_scorer 90027
+get_top_scorer 90029
+get_top_scorer 0
+get_top_scorer 90023
+get_top_scorer 90004
+get_top_scorer 90003
+get_top_scorer -3
+get_top_scorer 90005
+get_top_scorer 90032
+get_top_scorer 90025
+get_top_scorer 90000
+get_top_scorer 90001
+get_top_scorer 90030
+get_top_scorer -2
+get_top_scorer 90036
+get_top_scorer 90026
+get_top_scorer 90028
+get_top_scorer 90037
+get_top_scorer 90038
+get_top_scorer 90034
+get_top_scorer 90031
+get_top_scorer 90040
+get_top_scorer 90033
+get_top_scorer 90035
+get_top_scorer 90024
+get_top_scorer 90022
+get_top_scorer 90021
+get_top_scorer 90031
+get_top_scorer 90028
+get_top_scorer 90033
+get_top_scorer 90038
+get_top_scorer 90034
+get_top_scorer 90032
+get_top_scorer 90042
+get_top_scorer 90027
+get_top_scorer 90041
+get_top_scorer 90036
+get_top_scorer 90037
+get_top_scorer 90043
+get_top_scorer 90039
+get_top_scorer 90035
+get_top_scorer 90024
+get_top_scorer 90030
+get_top_scorer 90029
+get_top_scorer 90040
+get_top_scorer 90026
+get_top_scorer 90025
+get_all_players_count 1
+get_all_players_count 3
+get_all_players_count 2
+get_all_players_count 90039
+get_all_players_count 90027
+get_all_players_count 90029
+get_all_players_count 0
+get_all_players_count 90023
+get_all_players_count 90004
+get_all_players_count 90003
+get_all_players_count -3
+get_all_players_count 90005
+get_all_players_count 90032
+get_all_players_count 90025
+get_all_players_count 90000
+get_all_players_count 90001
+get_all_players_count 90030
+get_all_players_count -2
+get_all_players_count 90036
+get_all_players_count 90026
+get_all_players_count 90028
+get_all_players_count 90037
+get_all_players_count 90038
+get_all_players_count 90034
+get_all_players_count 90031
+get_all_players_count 90040
+get_all_players_count 90033
+get_all_players_count 90035
+get_all_players_count 90024
+get_all_players_count 90022
+get_all_players_count 90021
+get_all_players_count 90031
+get_all_players_count 90028
+get_all_players_count 90033
+get_all_players_count 90038
+get_all_players_count 90034
+get_all_players_count 90032
+get_all_players_count 90042
+get_all_players_count 90027
+get_all_players_count 90041
+get_all_players_count 90036
+get_all_players_count 90037
+get_all_players_count 90043
+get_all_players_count 90039
+get_all_players_count 90035
+get_all_players_count 90024
+get_all_players_count 90030
+get_all_players_count 90029
+get_all_players_count 90040
+get_all_players_count 90026
+get_all_players_count 90025
+get_all_players 1
+get_all_players 3
+get_all_players 2
+get_all_players 90039
+get_all_players 90027
+get_all_players 90029
+get_all_players 0
+get_all_players 90023
+get_all_players 90004
+get_all_players 90003
+get_all_players 90005
+get_all_players 90032
+get_all_players 90025
+get_all_players 90000
+get_all_players 90001
+get_all_players 90030
+get_all_players 90036
+get_all_players 90026
+get_all_players 90028
+get_all_players 90037
+get_all_players 90038
+get_all_players 90034
+get_all_players 90031
+get_all_players 90040
+get_all_players 90033
+get_all_players 90035
+get_all_players 90024
+get_all_players 90022
+get_all_players 90021
+get_all_players 90031
+get_all_players 90028
+get_all_players 90033
+get_all_players 90038
+get_all_players 90034
+get_all_players 90032
+get_all_players 90042
+get_all_players 90027
+get_all_players 90041
+get_all_players 90036
+get_all_players 90037
+get_all_players 90043
+get_all_players 90039
+get_all_players 90035
+get_all_players 90024
+get_all_players 90030
+get_all_players 90029
+get_all_players 90040
+get_all_players 90026
+get_all_players 90025
+get_all_players -1
+get_closest_player -1 1
+get_closest_player 1 -1
+get_closest_player -1 -1
+get_closest_player 33 1
+get_closest_player 28 2
+get_closest_player 15 2
+get_closest_player 1 3
+get_closest_player 12 3
+get_closest_player 23 1
+get_closest_player 3 3
+get_closest_player 9 1
+get_closest_player 11 3
+get_closest_player 6 3
+get_closest_player 22 3
+get_closest_player 13 2
+get_closest_player 26 2
+get_closest_player 5 2
+get_closest_player 24 3
+get_closest_player 25 2
+get_closest_player 20 2
+get_closest_player 18 2
+get_closest_player 14 1
+get_closest_player 16 1
+get_closest_player 2 1
+get_closest_player 21 2
+get_closest_player 10 2
+get_closest_player 19 1
+get_closest_player 4 3
+get_closest_player 7 3
+get_closest_player 27 1
+get_closest_player 8 3
+knockout_winner -1 30
+knockout_winner 30 -1
+knockout_winner -2 -1
+knockout_winner 30 20
+knockout_winner 1 1
+knockout_winner -4 6
+knockout_winner 6 -4
+knockout_winner -4 -4
+knockout_winner 6 6
+knockout_winner 1 2
+knockout_winner -4 7
+knockout_winner 6 -3
+knockout_winner -4 -3
+knockout_winner 6 7
+knockout_winner 1 3
+knockout_winner -4 8
+knockout_winner 6 -2
+knockout_winner -4 -2
+knockout_winner 6 8
+knockout_winner 2 1
+knockout_winner -3 6
+knockout_winner 7 -4
+knockout_winner -3 -4
+knockout_winner 7 6
+knockout_winner 2 2
+knockout_winner -3 7
+knockout_winner 7 -3
+knockout_winner -3 -3
+knockout_winner 7 7
+knockout_winner 2 3
+knockout_winner -3 8
+knockout_winner 7 -2
+knockout_winner -3 -2
+knockout_winner 7 8
+knockout_winner 3 1
+knockout_winner -2 6
+knockout_winner 8 -4
+knockout_winner -2 -4
+knockout_winner 8 6
+knockout_winner 3 2
+knockout_winner -2 7
+knockout_winner 8 -3
+knockout_winner -2 -3
+knockout_winner 8 7
+knockout_winner 3 3
+knockout_winner -2 8
+knockout_winner 8 -2
+knockout_winner -2 -2
+knockout_winner 8 8
+remove_team 1
+remove_team 3
+remove_team 2
+remove_player 28
+remove_player 15
+remove_player 1
+remove_player 12
+remove_player 23
+remove_player 3
+remove_player 9
+remove_player 11
+remove_player 6
+remove_player 22
+remove_player 13
+remove_player 26
+remove_player 5
+remove_player 24
+remove_player 25
+remove_player 20
+remove_player 18
+remove_player 14
+remove_player 16
+remove_player 2
+remove_player 21
+remove_player 10
+remove_player 19
+remove_player 4
+remove_player 7
+remove_player 27
+remove_player 8
+get_all_players 1
+get_all_players 3
+get_all_players 2
+get_all_players -1
+add_player 28 2 119338 92252 112527 true
+get_closest_player 28 2
+get_all_players -1
+remove_player 28
+remove_team 1
+remove_team 3
+remove_team 2
+knockout_winner 1 2
+get_all_players -1
+get_all_players 1
